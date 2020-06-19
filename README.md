@@ -1,0 +1,2 @@
+# Bhaskara
+Exercício aula PC
